@@ -26,7 +26,7 @@ A simple web app to check if a user is eligible for a loan on their age and mont
    - Displays a success message: *"Congratulations! You are eligible for the loan."*
    - Text color changes to green.
 4. If any condition is false:
-   - Displays a failure message: *"Sorry, you are not eligible. Ensure you are at least 18 and earn $2000/month."*
+   - Displays a failure message: *"Sorry, you are not eligible. Ensure you are at least 18 and earn SEK2000/month."*
    - Text color changes to red.
 
 --------
