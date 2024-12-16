@@ -18,7 +18,7 @@ checkEligibilityButton.addEventListener('click', function () {
 
     //using "AND" operator
 
-    if (age >= 18 && icome >= 2000) {
+    if (age >= 18 && income >= 2000) {
 
         //both condition must be true
         result.textContent = "Congratulations! You are eligible for the loan.";
