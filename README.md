@@ -21,7 +21,7 @@ A simple web app to check if a user is eligible for a loan on their age and mont
 1. The user enters their age and monthly income.
 2. The program evaluates the following conditions:
    - Age must be **18 or older**.
-   - Monthly income must be **$2000 or higher**.
+   - Monthly income must be **SEK 2000 or higher**.
 3. If both conditions are true:
    - Displays a success message: *"Congratulations! You are eligible for the loan."*
    - Text color changes to green.
